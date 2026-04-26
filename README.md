@@ -155,4 +155,4 @@ The full analysis was performed using Python with `pandas`, `numpy`, and `matplo
 
 The code is available in the repository file: `Online_Retail_KPI_analysis.ipynb`
 
-All output files (CSV summaries and PNG charts) are saved in the `online_retail_results/` folder.
+
