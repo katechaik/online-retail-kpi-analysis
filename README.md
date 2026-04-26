@@ -106,25 +106,25 @@ The following charts were generated during the analysis.
 
 **Top 10 Countries by Number of Records**
 
-> 📷 Insert image here: `online_retail_results/top_countries.png`
+![TOP](top_countries.png)
 
 The United Kingdom strongly dominates the dataset in terms of transaction volume, which means the dataset is geographically skewed.
 
 **Top 10 Products by Quantity Sold**
 
-> 📷 Insert image here: `online_retail_results/top_products_by_quantity.png`
+![TOP](top_products_by_quantity.png)
 
 A small set of products accounts for a disproportionately large share of total units sold.
 
 **Monthly Sales**
 
-> 📷 Insert image here: `online_retail_results/monthly_sales.png`
+![TOP](monthly_sales.png)
 
 Sales show a clear seasonal pattern, with a notable peak towards the end of 2011 (November–December), which aligns with holiday shopping behavior.
 
 **Distribution of Unit Price**
 
-> 📷 Insert image here: `online_retail_results/unit_price_distribution.png`
+![TOP](unit_price_distribution.png)
 
 The majority of products are priced below £10. The distribution is heavily right-skewed due to a small number of high-priced items and outliers.
 
